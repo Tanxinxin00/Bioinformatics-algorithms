@@ -1,8 +1,4 @@
-'''
-This is Week 5 code submission for 02604 Bioinformatics from Tanxin(Thea) Qiao.
-Written in Python=3.9.13 
-03/03/2023
-'''
+
 import numpy as np
 
 '''
