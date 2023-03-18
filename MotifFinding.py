@@ -1,9 +1,3 @@
-'''
-This is Week 1 code submission for 02604 Bioinformatics from Tanxin(Thea) Qiao.
-Written in Python.
-01/27/2023
-'''
-
 import random
 import numpy
 
